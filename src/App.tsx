@@ -740,7 +740,7 @@ const Header = () => (
       <p className="text-sm text-gray-600 mt-2">Identify the local neonatal unit for a baby based on postcode or hospital.</p>
     </div>
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Evelina_London_Children%27s_Hospital_logo.svg" 
+      src="/images/evelina-logo-tp.png" 
       alt="Evelina London" 
       className="h-16 w-auto flex-shrink-0 ml-4"
     />
